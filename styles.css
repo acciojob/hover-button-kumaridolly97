@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.btn{
+	background: black;
+	color: white;
+	box-shadow: 5px;
+	text-decoration: none;
+	transition: 0.5s;
+}
+.container{
+	width: fit-content;
+}
+.btn:hover{
+	background: yellow;
+	color: black;
+	box-shadow: 30px;
+}
